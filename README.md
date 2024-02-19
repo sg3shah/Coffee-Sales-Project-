@@ -1,4 +1,4 @@
-# Coffee-Sales-Project- Excel 
+# Coffee Sales Project Analysis (Excel) 
 Welcome to the Coffee Sales Analysis project repository! This project aims to analyze the trends of five types of coffee sales from 2019 to 2022 using Excel. Through meticulous data analysis, we uncover valuable insights that can aid strategic decision-making in the coffee industry.
 
 Key Objectives: 
